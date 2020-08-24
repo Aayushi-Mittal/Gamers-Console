@@ -27,14 +27,16 @@
 
 | S. No. 	| Name                 	| Link                                                	| Level                                                   	|
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
-| 1.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=KrH1qNVYKO0  	        | <img src="https://img.shields.io/badge/-medium-orange"> 	|
+| 1.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=KrH1qNVYKO0  	        | <img src="https://img.shields.io/badge/-easy-success"> 	  |
+| 2.      | Rock Paper Scissors 	| https://www.youtube.com/watch?v=3W4J9gioaR4         	| <img src="https://img.shields.io/badge/-easy-success">    |
+|        	|                      	|                                                     	|                                                         	|
 
 <h2>Python</h2>
 
 | S. No. 	| Name                 	| Link                                                	| Level                                                   	|
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
 | 1.     	| 5 Games in one      	| https://www.youtube.com/watch?v=XGf2GcyHPhc 	        | <img src="https://img.shields.io/badge/-medium-orange"> 	|
-| 2.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=BHh654_7Cmw  	        | <img src="https://img.shields.io/badge/-medium-orange"> 	|
+| 2.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=BHh654_7Cmw  	        | <img src="https://img.shields.io/badge/-easy-success">  	|
 |        	|                      	|                                                     	|                                                         	|
 |        	|                      	|                                                     	|                                                         	|
 
