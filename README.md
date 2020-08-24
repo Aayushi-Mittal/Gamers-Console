@@ -2,6 +2,8 @@
 <p align="center"><i>Level up yourself by developing games. This repository contains a list of Game Development tutorials in different programming languages!</i></p>
 <p align="center"><b>Do give it a :star:, if you like it.</b></p>
 
+<p align="center"><img width=50% src="https://media.giphy.com/media/lUZfOjYTyqUBW/giphy.gif"></p>
+
 <h1 align="center">Tutorials</h2>
 
 <h2>Javascript</h2>
@@ -44,3 +46,4 @@
 <p align="center"><img src="https://imgur.com/LmNR6es.jpg" height="50%" width="50%" align="center"></p>
 
 <p align="center"><h2>Want to add a game ? Feel free to make a PR</h2></p>
+<p align="center"><img width=50% src="https://media.giphy.com/media/jow0htwvROxzepF0UZ/giphy.gif"></p>
