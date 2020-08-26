@@ -1,6 +1,7 @@
 <h1 align= "center"><b>&lt Gamers-Console /&gt</b></h1>
 <p align="center"><i>Level up yourself by developing games. This repository contains a list of Game Development tutorials in different programming languages!</i></p>
 <p align="center"><b>Do give it a :star:, if you like it.</b></p>
+<p align="center"><a href="https://pollsify.com/c/EZQgb5">▶ Vote for your favorite programming languages for Game Development 📊</a></p>
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/lUZfOjYTyqUBW/giphy.gif"></p>
 
