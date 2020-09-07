@@ -34,6 +34,7 @@
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
 | 1.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=KrH1qNVYKO0  	        | <img src="https://img.shields.io/badge/-easy-success"> 	  |
 | 2.      | Rock Paper Scissors 	| https://www.youtube.com/watch?v=3W4J9gioaR4         	| <img src="https://img.shields.io/badge/-easy-success">    |
+| 3.     	| Connect4 | https://www.dreamincode.net/forums/topic/97190-connect-four-tutorial/ | <img src="https://img.shields.io/badge/-easy-success"> |
 |        	|                      	|                                                     	|                                                         	|
 
 <h2>Python</h2>
