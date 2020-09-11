@@ -49,5 +49,5 @@
 <p align="center"><h2>What are you waiting for ? Give it a Try</h2></p>
 <p align="center"><img src="https://imgur.com/LmNR6es.jpg" height="50%" width="50%" align="center"></p>
 
-<p align="center"><h2>Want to add a game ? Feel free to make a PR</h2></p>
+<p align="center"><h2>Want to add a game ? Feel free to make a PR... Check Guidelines <a href="">Here</a></h2></p>
 <p align="center"><img width=50% src="https://media.giphy.com/media/jow0htwvROxzepF0UZ/giphy.gif"></p>
