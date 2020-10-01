@@ -43,7 +43,7 @@
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
 | 1.     	| 5 Games in one      	| https://www.youtube.com/watch?v=XGf2GcyHPhc 	        | <img src="https://img.shields.io/badge/-medium-orange"> 	|
 | 2.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=BHh654_7Cmw  	        | <img src="https://img.shields.io/badge/-easy-success">  	|
-|        	|                      	|                                                     	|                                                         	|
+| 3.     	| Space Invaders       	| https://www.youtube.com/watch?v=crV6T3piwHQ          	| <img src="https://img.shields.io/badge/-medium-orange">  	|
 |        	|                      	|                                                     	|                                                         	|
 
 <p align="center"><h2>What are you waiting for ? Give it a Try</h2></p>
