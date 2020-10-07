@@ -45,7 +45,11 @@
 | 2.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=BHh654_7Cmw  	        | <img src="https://img.shields.io/badge/-easy-success">  	|
 | 3.     	| Space Invaders       	| https://www.youtube.com/watch?v=crV6T3piwHQ          	| <img src="https://img.shields.io/badge/-medium-orange">  	|
 |        	|                      	|                                                     	|                                                         	|
+<h2>Flutter</h2>
 
+| S. No. 	| Name                 	| Link                                                	| Level                                                   	|
+|:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
+| 1.     	| PACMAN GAME         	| https://youtu.be/PbIlXoijRvM  	        | <img src="https://img.shields.io/badge/-medium-orange"> 	
 <p align="center"><h2>What are you waiting for ? Give it a Try</h2></p>
 <p align="center"><img src="https://imgur.com/LmNR6es.jpg" height="50%" width="50%" align="center"></p>
 
