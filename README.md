@@ -50,7 +50,7 @@
 <h2>Java</h2>
 | S. No. 	| Name                 	| Link                                                	| Level                                                   	|
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
-:heavy_plus_sign: Add tic tac toe in Java: https://www.youtube.com/watch?v=gQb3dE-y1S4 <img src="https://img.shields.io/badge/-easy-success">
+| 1.      | Tic Tac Toe           | https://www.youtube.com/watch?v=gQb3dE-y1S4           | <img src="https://img.shields.io/badge/-easy-success">    |
 
 
 <h2>Flutter</h2>
