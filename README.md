@@ -48,6 +48,7 @@
 
 
 <h2>Java</h2>
+
 | S. No. 	| Name                 	| Link                                                	| Level                                                   	|
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
 | 1.      | Tic Tac Toe           | https://www.youtube.com/watch?v=gQb3dE-y1S4           | <img src="https://img.shields.io/badge/-easy-success">    |
