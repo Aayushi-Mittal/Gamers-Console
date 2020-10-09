@@ -45,6 +45,15 @@
 | 2.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=BHh654_7Cmw  	        | <img src="https://img.shields.io/badge/-easy-success">  	|
 | 3.     	| Space Invaders       	| https://www.youtube.com/watch?v=crV6T3piwHQ          	| <img src="https://img.shields.io/badge/-medium-orange">  	|
 |        	|                      	|                                                     	|                                                         	|
+
+
+<h2>Java</h2>
+
+| S. No. 	| Name                 	| Link                                                	| Level                                                   	|
+|:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
+| 1.      | Tic Tac Toe           | https://www.youtube.com/watch?v=gQb3dE-y1S4           | <img src="https://img.shields.io/badge/-easy-success">    |
+
+
 <h2>Flutter</h2>
 
 | S. No. 	| Name                 	| Link                                                	| Level                                                   	|
@@ -55,3 +64,4 @@
 
 <p align="center"><h2>Wanna Contribute ? Feel free to make a PR... Check this issue <a href="https://github.com/Aayushi-Mittal/Gamers-Console/issues/1">Here</a></h2></p>
 <p align="center"><img width=50% src="https://media.giphy.com/media/jow0htwvROxzepF0UZ/giphy.gif"></p>
+
