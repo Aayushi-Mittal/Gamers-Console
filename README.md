@@ -66,3 +66,9 @@
 <p align="center"><h2>Wanna Contribute ? Feel free to make a PR... Check this issue <a href="https://github.com/Aayushi-Mittal/Gamers-Console/issues/1">Here</a></h2></p>
 <p align="center"><img width=50% src="https://media.giphy.com/media/jow0htwvROxzepF0UZ/giphy.gif"></p>
 
+## Thanks to our Contributors ✨
+<a href="https://github.com/Aayushi-Mittal/Gamers-Console/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Aayushi-Mittal/Gamers-Console" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
