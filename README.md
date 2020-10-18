@@ -52,7 +52,7 @@
 | S. No. 	| Name                 	| Link                                                	| Level                                                   	|
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
 | 1.      | Tic Tac Toe           | https://www.youtube.com/watch?v=gQb3dE-y1S4           | <img src="https://img.shields.io/badge/-easy-success">    |
-
+| 2.            |Brick Breaker Game     | https://www.youtube.com/watch?v=K9qMm3JbOH0&t=2665s   | <img src="https://img.shields.io/badge/-medium-orange"> 	|
 
 <h2>Flutter</h2>
 
