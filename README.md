@@ -60,11 +60,23 @@
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
 | 1.     	| PACMAN GAME         	| https://youtu.be/PbIlXoijRvM  	        | <img src="https://img.shields.io/badge/-medium-orange"> 	
 | 2.      | Flappy Bird           | https://www.youtube.com/watch?v=vgmVPpFP0fI           | <img src="https://img.shields.io/badge/-medium-orange">
+
+
+<h2>C#</h2>
+
+| S. No. 	| Name                 	| Link                                                	| Level                                                   	|
+|:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
+| 1.     	| 2D Platformer         	| https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ	        | <img src="https://img.shields.io/badge/-medium-orange"> 	
+| 2.      | Multi Player FPS           | https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ        | <img src="https://img.shields.io/badge/-medium-orange">
+
+
 <p align="center"><h2>What are you waiting for ? Give it a Try</h2></p>
 <p align="center"><img src="https://imgur.com/LmNR6es.jpg" height="50%" width="50%" align="center"></p>
 
 <p align="center"><h2>Wanna Contribute ? Feel free to make a PR... Check this issue <a href="https://github.com/Aayushi-Mittal/Gamers-Console/issues/1">Here</a></h2></p>
 <p align="center"><img width=50% src="https://media.giphy.com/media/jow0htwvROxzepF0UZ/giphy.gif"></p>
+
+<h2>C#</h2>
 
 ## Thanks to our Contributors ✨
 <a href="https://github.com/Aayushi-Mittal/Gamers-Console/graphs/contributors">
