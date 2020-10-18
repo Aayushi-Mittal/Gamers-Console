@@ -5,6 +5,7 @@
 
 ```
 $ git clone "https://github.com/{username}/Gamers-Console.git"
+$ cd Gamers-Console
 ```
 where username is your GitHub account username.
 
@@ -15,8 +16,8 @@ $ git checkout branchname
 ```
 - Do your work and stage your changes.
 ```
-$ git add <filename>   //for adding particular files
-$ git add .           //for adding all the files
+$ git add <filename>   //for adding particular files to the staging area
+$ git add .           //for adding all the files to the staging area
 ```
 - Commit you changes with a commit message containing your name, file(s) worked upon, changes added.
 ```
