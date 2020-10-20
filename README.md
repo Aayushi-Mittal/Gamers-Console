@@ -44,8 +44,10 @@
 | 1.     	| 5 Games in one      	| https://www.youtube.com/watch?v=XGf2GcyHPhc 	        | <img src="https://img.shields.io/badge/-medium-orange"> 	|
 | 2.     	| Tic Tac Toe         	| https://www.youtube.com/watch?v=BHh654_7Cmw  	        | <img src="https://img.shields.io/badge/-easy-success">  	|
 | 3.     	| Space Invaders       	| https://www.youtube.com/watch?v=crV6T3piwHQ          	| <img src="https://img.shields.io/badge/-medium-orange">  	|
-|        	|                      	|                                                     	|                                                         	|
-
+| 4.      | Checkers              | https://www.youtube.com/playlist?list=PLzMcBGfZo4-lkJr3sqpikNyVzbNZLRiT3 | <img src="https://img.shields.io/badge/-medium-orange">  |
+| 5.      | Checkers with AI      | https://www.youtube.com/playlist?list=PLzMcBGfZo4-myY28wdQuJDBi8pCt-GIj6 | <img src="https://img.shields.io/badge/-medium-orange">  |
+| 6.      | Hangman               | https://www.youtube.com/playlist?list=PLzMcBGfZo4-ndZlN21DasvpfKwIc1rI6w | <img src="https://img.shields.io/badge/-medium-orange">  |
+| 7.      | Flappy Bird with AI   | https://www.youtube.com/playlist?list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2 | <img src="https://img.shields.io/badge/-medium-orange">  |
 
 <h2>Java</h2>
 
