@@ -48,7 +48,7 @@
 | 5.      | Checkers with AI      | https://www.youtube.com/playlist?list=PLzMcBGfZo4-myY28wdQuJDBi8pCt-GIj6 | <img src="https://img.shields.io/badge/-medium-orange">  |
 | 6.      | Hangman               | https://www.youtube.com/playlist?list=PLzMcBGfZo4-ndZlN21DasvpfKwIc1rI6w | <img src="https://img.shields.io/badge/-medium-orange">  |
 | 7.      | Flappy Bird with AI   | https://www.youtube.com/playlist?list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2 | <img src="https://img.shields.io/badge/-medium-orange">  |
-| 8.      | Space invaders [Medium] | https://www.youtube.com/watch?v=FfWpgLFMI7w | <img src="https://img.shields.io/badge/-medium-orange">  |
+| 8.      | Space invaders [FreeCodeCamp] | https://www.youtube.com/watch?v=FfWpgLFMI7w | <img src="https://img.shields.io/badge/-medium-orange">  |
 
 <h2>Java</h2>
 
