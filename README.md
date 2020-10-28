@@ -49,6 +49,7 @@
 | 6.      | Hangman               | https://www.youtube.com/playlist?list=PLzMcBGfZo4-ndZlN21DasvpfKwIc1rI6w | <img src="https://img.shields.io/badge/-medium-orange">  |
 | 7.      | Flappy Bird with AI   | https://www.youtube.com/playlist?list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2 | <img src="https://img.shields.io/badge/-medium-orange">  |
 | 8.      | Space invaders [FreeCodeCamp] | https://www.youtube.com/watch?v=FfWpgLFMI7w | <img src="https://img.shields.io/badge/-medium-orange">  |
+| 9.      | Snake                 | https://www.youtube.com/watch?v=9bBgyOkoBQ02          | <img src="https://img.shields.io/badge/-easy-success">    |
 
 <h2>Java</h2>
 
@@ -69,8 +70,9 @@
 
 | S. No. 	| Name                 	| Link                                                	| Level                                                   	|
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
-| 1.     	| 2D Platformer         |https://www.youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c	        | <img src="https://img.shields.io/badge/-medium-orange"> 	
-| 2.      | Multi Player FPS      | https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ        | <img src="https://img.shields.io/badge/-medium-orange">
+| 1.     	| 2D Platformer         |https://www.youtube.com/playlist?list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c	        | <img src="https://img.shields.io/badge/-medium-orange">
+| 2.      | 2D Tower defense      | https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0        | <img src="https://img.shields.io/badge/-medium-orange">
+| 3.      | Multi Player FPS      | https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ        | <img src="https://img.shields.io/badge/-medium-orange">
 
 
 <p align="center"><h2>What are you waiting for ? Give it a Try</h2></p>
