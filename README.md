@@ -65,7 +65,8 @@
 | S. No. 	| Name                 	| Link                                                	| Level                                                   	|
 |:------:	|:--------------------:	|:---------------------------------------------------:	|:-------------------------------------------------------:	|
 | 1.     	| PACMAN GAME         	| https://youtu.be/PbIlXoijRvM  	        | <img src="https://img.shields.io/badge/-medium-orange"> 	
-| 2.      | Flappy Bird           | https://www.youtube.com/watch?v=vgmVPpFP0fI           | <img src="https://img.shields.io/badge/-medium-orange">
+| 2.      | Flappy Bird           | https://www.youtube.com/watch?v=vgmVPpFP0fI           | <img src="https://img.shields.io/badge/-medium-orange">   |
+| 3.      | Snake Game            | https://www.youtube.com/watch?v=cxX16GBitpY           |  <img src="https://img.shields.io/badge/-medium-orange">  |
 
 
 <h2>C#</h2>
