@@ -36,7 +36,8 @@
 | 2.      | Rock Paper Scissors 	| https://www.youtube.com/watch?v=3W4J9gioaR4         	| <img src="https://img.shields.io/badge/-easy-success">    |
 | 3.     	| Connect4 | https://www.dreamincode.net/forums/topic/97190-connect-four-tutorial/ | <img src="https://img.shields.io/badge/-easy-success"> |
 | 4.      | Battery Collector    	| https://www.youtube.com/playlist?list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4 |  <img src="https://img.shields.io/badge/-easy-success">  
-| 5.      | Space Shooter Game    | https://youtu.be/3dYMnPYPTS0                          |  <img src="https://img.shields.io/badge/-easy-success">                     	|
+| 5.      | Space Shooter Game    | https://youtu.be/3dYMnPYPTS0                          |  <img src="https://img.shields.io/badge/-easy-success">  |
+| 6.      | Snake Game            |  https://youtu.be/U59RLO4yymw                         |  <img src="https://img.shields.io/badge/-easy-success">  |
 
 <h2>Python</h2>
 
