@@ -25,7 +25,7 @@
 | 12.    	| T Rex                	| https://www.youtube.com/watch?v=bG2BmmYr9NQ         	| <img src="https://img.shields.io/badge/-medium-orange"> 	|
 | 13.    	| Candy Crush          	| https://www.youtube.com/watch?v=XD5sZWxwJUk         	| <img src="https://img.shields.io/badge/-hard-red">      	|
 | 14.    	| Flappy Bird         	| https://www.youtube.com/watch?v=0ArCFchlTq4         	| <img src="https://img.shields.io/badge/-medium-orange">	  |
-|        	|                      	|                                                     	|                                                         	|
+| 15.     | Quiz Game             | https://youtu.be/u98ROZjBWy8                          | <img src="https://img.shields.io/badge/-medium-orange">   |
 |        	|                      	|                                                     	|                                                         	|
 
 <h2>C++</h2>
